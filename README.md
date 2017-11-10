@@ -21,7 +21,7 @@ cd Object_Recognition_Demo
 This does not mess with your python instalation in any way. It simply creates a Python virtual environment where it installs all the dependencies.
 
 ## Run
-To run the demo just execute the run.sh script (```./run.sh```) form the Object_Recognition_Demo folder.
+To run the demo just execute the run.sh script (```./run.sh```) from the Object_Recognition_Demo folder.
 
 ## Information
 Currently, the pretained neural network that is used in this demo can detect 80 classes:
